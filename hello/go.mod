@@ -1,4 +1,4 @@
-module github.com/takumi2786/sample-go-mod/hello
+module github.com/takumi2786/sample-go-mod/hello v1.0.1
 
 go 1.18
 
